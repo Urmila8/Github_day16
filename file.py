@@ -1,7 +1,7 @@
-def get_addition(a,b):
+def get_addition(a,b,c):
     """this is addition
       functon"""
-    return a+b
+    return a+b+c
 
 def get_substraction(a,b):
     return a-b
